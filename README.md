@@ -1,0 +1,2 @@
+# Grade-Calculator-using-JavaScript
+The Marks Calculator project is simply in HTML, CSS, and JavaScript. Taking about the features of this project, you can enter the marks in the related subject field you want and edit the full marks accordingly, then calculate the total marks, percentage, grade, and GPA. This project includes a lot of JavaScript for making validations to certain parts of the project.
